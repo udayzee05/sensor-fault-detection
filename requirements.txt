@@ -1,2 +1,4 @@
 pymongo[srv]==4.2.0
 -e .
+scikit-learn
+from-root
